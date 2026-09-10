@@ -1,0 +1,18 @@
+{
+  "research_repo": "michaelhorwitzduda/marketingautomationresearch",
+  "research_commit": "671e3d4e6190fac21dcad32a89f3dfe17181103c",
+  "research_commit_subject": "Dashboard publish: dry run never writes to the site clone, env plumbing, scoped skip",
+  "data_files": [
+    {
+      "path": "C:\\Projects\\MarketingAutomationResearchPresentation\\data-kit\\customer-websites\\customer-websites.json",
+      "sha256": "fea2c55a07b479dc2049080e1f251269240ef23233e226e5d692c30637e04be4",
+      "mtime": "2026-07-20T13:34:20.170Z"
+    },
+    {
+      "path": "C:\\Projects\\MarketingAutomationResearch\\SMBWebsites\\sf\\gap-contacts.json",
+      "sha256": "5e1a83681416bdcb04340220d8b4e4953c573ec467aa280f6dc261af6905d0ac",
+      "mtime": "2026-09-02T14:38:20.867Z"
+    }
+  ],
+  "published_at": "2026-09-10T07:01:39.137Z"
+}
